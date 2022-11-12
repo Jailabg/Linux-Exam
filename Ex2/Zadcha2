@@ -6,7 +6,7 @@ usermod -a -G examuser examgroup
 usermod -a -G examuser strypes
 cd ~
 cd /etc/
-cp passwd /home/lili
+cp passwd /home/pesho
 cd ~
 chown examuser:examgroup passwd
 chmod 762 passwd
