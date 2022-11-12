@@ -1,0 +1,8 @@
+sudo apt install git - Za da instalirame nujnite tools za da izpozlvame git
+Pravim si registraciq i git i suzdavame direktoriqta
+git config --global user.name "Jailabg"
+git config --global user.email "jailabg02@gmail.com"
+git clone "Linka ot papkata suzdadena v git"
+git add -all 
+git commit -m "Last Exam"
+git push kato trqbva da si napravim kluch ot developer settings v profila koito kluch izpolzvame kogato iska parola

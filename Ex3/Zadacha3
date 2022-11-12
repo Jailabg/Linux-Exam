@@ -1,0 +1,5 @@
+gedit Fruits.info
+cat Fruits.info | cut -d "#" -f1
+cat Fruits.info | sort -t "#" -nk2 
+cat Fruits.info | sort -t "#" -nk3 | tail -n1
+cat Fruits.info | sort -t "#" -nk4 | head -n3
